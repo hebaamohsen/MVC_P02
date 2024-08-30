@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "IlxC2PyN5tnPHCZEy8KhNrchZHKjiiP9Iauedz8xF/M=",
+  "Source": "hebamohsen_MVC_Assignment2",
+  "BasePath": "_content/hebamohsen_MVC_Assignment2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "hebamohsen_MVC_Assignment2\\wwwroot",
+      "Source": "hebamohsen_MVC_Assignment2",
+      "ContentRoot": "E:\\ASP.assignments\\hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2\\wwwroot\\",
+      "BasePath": "_content/hebamohsen_MVC_Assignment2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\ASP.assignments\\hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "SourceId": "hebamohsen_MVC_Assignment2",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ASP.assignments\\hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2\\wwwroot\\",
+      "BasePath": "_content/hebamohsen_MVC_Assignment2",
+      "RelativePath": "lib/bootstrap/css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "E:\\ASP.assignments\\hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "SourceId": "hebamohsen_MVC_Assignment2",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ASP.assignments\\hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2\\wwwroot\\",
+      "BasePath": "_content/hebamohsen_MVC_Assignment2",
+      "RelativePath": "lib/bootstrap/js/bootstrap.bundle.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Identity": "E:\\ASP.assignments\\hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "SourceId": "hebamohsen_MVC_Assignment2",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ASP.assignments\\hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2\\wwwroot\\",
+      "BasePath": "_content/hebamohsen_MVC_Assignment2",
+      "RelativePath": "lib/bootstrap/js/bootstrap.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js"
+    }
+  ]
+}

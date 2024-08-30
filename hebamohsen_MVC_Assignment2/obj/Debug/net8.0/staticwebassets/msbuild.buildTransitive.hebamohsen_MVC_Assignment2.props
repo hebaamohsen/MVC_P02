@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\hebamohsen_MVC_Assignment2.props" />
+</Project>

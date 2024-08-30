@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ASP.assignments\\hebamohsen_MVC_Assignment2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7141AD62-F12A-48D9-A004-288034ED4845}|hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2.csproj|e:\\asp.assignments\\hebamohsen_mvc_assignment2\\hebamohsen_mvc_assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7141AD62-F12A-48D9-A004-288034ED4845}|hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2.csproj|solutionrelative:hebamohsen_mvc_assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7141AD62-F12A-48D9-A004-288034ED4845}|hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2.csproj|e:\\asp.assignments\\hebamohsen_mvc_assignment2\\hebamohsen_mvc_assignment2\\views\\home\\abouteus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7141AD62-F12A-48D9-A004-288034ED4845}|hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2.csproj|solutionrelative:hebamohsen_mvc_assignment2\\views\\home\\abouteus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7141AD62-F12A-48D9-A004-288034ED4845}|hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2.csproj|e:\\asp.assignments\\hebamohsen_mvc_assignment2\\hebamohsen_mvc_assignment2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7141AD62-F12A-48D9-A004-288034ED4845}|hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2.csproj|solutionrelative:hebamohsen_mvc_assignment2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7141AD62-F12A-48D9-A004-288034ED4845}|hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2.csproj|e:\\asp.assignments\\hebamohsen_mvc_assignment2\\hebamohsen_mvc_assignment2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7141AD62-F12A-48D9-A004-288034ED4845}|hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2.csproj|solutionrelative:hebamohsen_mvc_assignment2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7141AD62-F12A-48D9-A004-288034ED4845}|hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2.csproj|e:\\asp.assignments\\hebamohsen_mvc_assignment2\\hebamohsen_mvc_assignment2\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7141AD62-F12A-48D9-A004-288034ED4845}|hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2.csproj|solutionrelative:hebamohsen_mvc_assignment2\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7141AD62-F12A-48D9-A004-288034ED4845}|hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2.csproj|e:\\asp.assignments\\hebamohsen_mvc_assignment2\\hebamohsen_mvc_assignment2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7141AD62-F12A-48D9-A004-288034ED4845}|hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2.csproj|solutionrelative:hebamohsen_mvc_assignment2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7141AD62-F12A-48D9-A004-288034ED4845}|hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2.csproj|e:\\asp.assignments\\hebamohsen_mvc_assignment2\\hebamohsen_mvc_assignment2\\views\\home\\content.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7141AD62-F12A-48D9-A004-288034ED4845}|hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2.csproj|solutionrelative:hebamohsen_mvc_assignment2\\views\\home\\content.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7141AD62-F12A-48D9-A004-288034ED4845}|hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2.csproj|e:\\asp.assignments\\hebamohsen_mvc_assignment2\\hebamohsen_mvc_assignment2\\views\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7141AD62-F12A-48D9-A004-288034ED4845}|hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2.csproj|solutionrelative:hebamohsen_mvc_assignment2\\views\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7141AD62-F12A-48D9-A004-288034ED4845}|hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2.csproj|e:\\asp.assignments\\hebamohsen_mvc_assignment2\\hebamohsen_mvc_assignment2\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7141AD62-F12A-48D9-A004-288034ED4845}|hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2.csproj|solutionrelative:hebamohsen_mvc_assignment2\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6369091-46F9-4CAD-B1DC-D740E83F4D00}|MVC5\\MVC5.csproj|e:\\asp.assignments\\hebamohsen_mvc_assignment2\\mvc5\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6369091-46F9-4CAD-B1DC-D740E83F4D00}|MVC5\\MVC5.csproj|solutionrelative:mvc5\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AbouteUs.cshtml",
+              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2\\Views\\Home\\AbouteUs.cshtml",
+              "RelativeDocumentMoniker": "hebamohsen_MVC_Assignment2\\Views\\Home\\AbouteUs.cshtml",
+              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2\\Views\\Home\\AbouteUs.cshtml",
+              "RelativeToolTip": "hebamohsen_MVC_Assignment2\\Views\\Home\\AbouteUs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T06:05:00.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "hebamohsen_MVC_Assignment2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "hebamohsen_MVC_Assignment2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T05:57:42.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "hebamohsen_MVC_Assignment2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "hebamohsen_MVC_Assignment2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T05:12:00.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "libman.json",
+              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2\\libman.json",
+              "RelativeDocumentMoniker": "hebamohsen_MVC_Assignment2\\libman.json",
+              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2\\libman.json",
+              "RelativeToolTip": "hebamohsen_MVC_Assignment2\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T05:05:24.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "hebamohsen_MVC_Assignment2\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "hebamohsen_MVC_Assignment2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T03:35:42.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2\\Program.cs",
+              "RelativeDocumentMoniker": "hebamohsen_MVC_Assignment2\\Program.cs",
+              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2\\Program.cs",
+              "RelativeToolTip": "hebamohsen_MVC_Assignment2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T02:13:33.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Content.cshtml",
+              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2\\Views\\Home\\Content.cshtml",
+              "RelativeDocumentMoniker": "hebamohsen_MVC_Assignment2\\Views\\Home\\Content.cshtml",
+              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2\\Views\\Home\\Content.cshtml",
+              "RelativeToolTip": "hebamohsen_MVC_Assignment2\\Views\\Home\\Content.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T06:06:47.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "view.cshtml",
+              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2\\Views\\view.cshtml",
+              "RelativeDocumentMoniker": "hebamohsen_MVC_Assignment2\\Views\\view.cshtml",
+              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2\\Views\\view.cshtml",
+              "RelativeToolTip": "hebamohsen_MVC_Assignment2\\Views\\view.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T06:34:58.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "hebamohsen_MVC_Assignment2\\Views\\Home\\About.cshtml",
+              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_Assignment2\\hebamohsen_MVC_Assignment2\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "hebamohsen_MVC_Assignment2\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T06:07:20.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\ASP.assignments\\hebamohsen_MVC_Assignment2\\MVC5\\Startup.cs",
+              "RelativeDocumentMoniker": "MVC5\\Startup.cs",
+              "ToolTip": "E:\\ASP.assignments\\hebamohsen_MVC_Assignment2\\MVC5\\Startup.cs",
+              "RelativeToolTip": "MVC5\\Startup.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T02:12:17.801Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
